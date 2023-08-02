@@ -1,1 +1,2 @@
-My first readme
+my frist readme
+editted my readme
